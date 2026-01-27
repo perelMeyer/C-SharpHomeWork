@@ -1,0 +1,14 @@
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\bin\Debug\net10.0\project03.exe
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\bin\Debug\net10.0\project03.deps.json
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\bin\Debug\net10.0\project03.runtimeconfig.json
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\bin\Debug\net10.0\project03.dll
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\bin\Debug\net10.0\project03.pdb
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.AssemblyInfoInputs.cache
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.AssemblyInfo.cs
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.csproj.CoreCompileInputs.cache
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.dll
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\refint\project03.dll
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.pdb
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\project03.genruntimeconfig.cache
+C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project03\obj\Debug\net10.0\ref\project03.dll
