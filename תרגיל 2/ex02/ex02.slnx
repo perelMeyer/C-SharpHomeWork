@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ex02/ex02.csproj" />
+  <Project Path="project02/project02.csproj" Id="6e68cc20-c4cb-4ab8-a139-4e5b39204d4a" />
+  <Project Path="project03/project03.csproj" Id="f91c3f99-9708-4071-acf1-b9d75ef65236" />
+  <Project Path="project04/project04.csproj" Id="32a379a7-03ab-42c7-9c5b-029d6f989509" />
+</Solution>
