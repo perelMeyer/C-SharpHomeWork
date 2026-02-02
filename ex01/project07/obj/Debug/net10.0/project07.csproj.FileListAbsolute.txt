@@ -1,8 +1,0 @@
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\bin\Debug\net10.0\project07.exe
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\project07.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\project07.AssemblyInfoInputs.cache
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\project07.AssemblyInfo.cs
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\project07.csproj.CoreCompileInputs.cache
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\project07.dll
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\refint\project07.dll
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\ex01\project07\obj\Debug\net10.0\project07.pdb

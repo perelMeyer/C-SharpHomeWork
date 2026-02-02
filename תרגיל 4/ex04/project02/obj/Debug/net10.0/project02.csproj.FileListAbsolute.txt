@@ -1,4 +1,0 @@
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\תרגיל 3\ex04\project02\obj\Debug\net10.0\project02.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\תרגיל 3\ex04\project02\obj\Debug\net10.0\project02.AssemblyInfoInputs.cache
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\תרגיל 3\ex04\project02\obj\Debug\net10.0\project02.AssemblyInfo.cs
-C:\Users\perel\OneDrive\Documents\מכללת בית וגן\תכנות מונחה עצמים\תרגיל 3\ex04\project02\obj\Debug\net10.0\project02.csproj.CoreCompileInputs.cache
